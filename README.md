@@ -1,6 +1,6 @@
 ### Bem vindo ao meu GitHub!!! Meu nome é Rosiane 👋
 
-- 🔭 Aqui você encontrará conteúdos de estudos em Kotlin, Android, Java, C#.Net.
+- 🔭 Aqui você encontrará conteúdos de estudos em Kotlin, Android, C#.Net.
 - 🌱 Apaixonada Desenvolvimento Android 🧡.
 <div>
   <a href="https://github.com/rosianeclemente">
