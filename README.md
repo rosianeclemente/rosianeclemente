@@ -1,7 +1,7 @@
 ### Bem vindo ao meu GitHub!!! Meu nome é Rosiane 👋
 
-- 🔭 Trabalhando com Back-end.
-- 🌱 Estudando Desenvolvimento Android.
+- 🔭 Aqui você encontrará conteúdos de estudos em Kotlin, Android, Java, C#.Net.
+- 🌱 Estudando Desenvolvimento Android 🧡.
 <div>
   <a href="https://github.com/rosianeclemente">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rosianeclemente&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
